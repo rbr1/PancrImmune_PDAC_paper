@@ -1,0 +1,133 @@
+Gene	pathway	common name	Expressed by	Detail	
+CLIP1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	CLIP	B cells		
+FCER2	ANTIGEN PROCESSING AND PRESENTATION: MCHII	FCER2	B cells		
+FCGRT	ANTIGEN PROCESSING AND PRESENTATION: MCHII	FCGRT	B cells		
+FCMR	ANTIGEN PROCESSING AND PRESENTATION: MCHII	FCMR	B cells		
+HECTD1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HECD1	B cells		
+HLA-DMA	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DMA	B cells		
+HLA-DMB	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DMB	B cells		
+HLA-DPA1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DPA1	B cells		
+HLA-DPB1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DPB1	B cells		
+HLA-DQA1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DQA1	B cells		
+HLA-DQA2	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DQA2	B cells		
+HLA-DQB1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DQB1	B cells		
+HLA-DQB1-AS1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DQB1-AS1	B cells		
+HLA-DQB2	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DQB2	B cells		
+HLA-DRA	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DRA	B cells		
+HLA-DRB1	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DRB1	B cells		
+HLA-DRB5	ANTIGEN PROCESSING AND PRESENTATION: MCHII	HLA-DRB5	B cells		
+BANK1	NFKB PATHWAY	BANK1	B cells		
+BLK	NFKB PATHWAY	BLK	B cells		
+BLNK	NFKB PATHWAY	BLNK	B cells		
+BTK	NFKB PATHWAY	BTK	B cells		
+DOCK8	NFKB PATHWAY	DOCK8	B cells		
+IRAK1	NFKB PATHWAY	IRAK1	B cells		
+IRAK4	NFKB PATHWAY	IRAK4	B cells		
+IRF3	NFKB PATHWAY	IRF3	B cells		
+IRF5	NFKB PATHWAY	IRF5	B cells		
+IRF7	NFKB PATHWAY	IRF7	B cells		
+JUN	NFKB PATHWAY	AP-1	B cells		
+LYN	NFKB PATHWAY	LYN	B cells		
+MAP3K7	NFKB PATHWAY	TAK1	B cells		
+MAPK1	NFKB PATHWAY	MAPK	B cells		
+MYD88	NFKB PATHWAY	MYD88	B cells		
+NFKB1	NFKB PATHWAY	NFKB1	B cells		
+NFKB2	NFKB PATHWAY	NFKB2	B cells		
+PIK3AP1	NFKB PATHWAY	BCAP	B cells		
+PIK3CA	NFKB PATHWAY	PI3K	B cells		
+PLCG2	NFKB PATHWAY	PLCG2	B cells		
+STAT3	NFKB PATHWAY	STAT3	B cells		
+SYK	NFKB PATHWAY	SYK	B cells		
+TLR7	NFKB PATHWAY	TLR7	B cells		
+TLR9	NFKB PATHWAY	TLR9	B cells		
+TRAF6	NFKB PATHWAY	TRAF6	B cells		
+BTLA	PRE-NFKB PATHWAY	BTLA	B cells		
+RBSN	TLR9 PATHWAY	ZFYVE20	B cells		
+TLR9	TLR9 PATHWAY	TLR9	B cells		
+LILRA4	PRE-TLR9 PATHWAY	LILRA4	B cells		
+B2M	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	B2M	B cells		
+CALR	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	CALR	B cells		
+CANX	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	CANX	B cells		
+HLA-A	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HLA-A	B cells		
+HLA-B	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HLA-B	B cells		
+HLA-C	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HLA-C	B cells		
+HSP90AA1	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HSP90AA1	B cells		
+HSP90AA2	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HSP90AA2	B cells		
+HSP90AB1	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HSP90AB1	B cells		
+HSPA2	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	HSP70	B cells		
+HSPA5	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	BIP	B cells		
+IFNG	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	IFNG	B cells		
+PDIA3	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	ERP57	B cells		
+PSME1	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	PA28	B cells		
+TAP1	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	TAP1	B cells		
+TAP2	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	TAP2	B cells		
+TAPBP	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	TAPBP	B cells		
+TNF	ANTIGEN PROCESSING AND PRESENTATION MHC CLASS I	TNFA	B cells		
+Mar-01	ANTIGEN PROCESSING AND PRESENTATION: MCHII INHIBITOR	Mar-01	B cells	?	
+Mar-02	ANTIGEN PROCESSING AND PRESENTATION: MCHII INHIBITOR	Mar-02	B cells	?	
+HLA-DOA	ANTIGEN PROCESSING AND PRESENTATION: MCHII INHIBITOR 2	HLA-DOA	B cells		
+HLA-DOB	ANTIGEN PROCESSING AND PRESENTATION: MCHII INHIBITOR 2	HLA-DOB	B cells		
+CXCL13	B cell entry into follicles		B cells		
+CXCR5	B cell migration		FDCs		
+BAFF	B cell survival		Other immune cells		
+APRIL	B cell survival		Other immune cells		
+BAFF-R	B cell survival		B cells		
+EBI2	B cell chemoattractant		stromal		
+CXCR4	B cell dwell time in follicles/retention		B cells		
+CCR7	B cell early activation		B cells		
+MHC class II	B cell early activation		B cells		
+CD86	B cell early activation		B cells		
+CAM1	B cell early activation		B cells		
+CR2	B cell early activation	CD21	B cells		
+FCGR2B	Negative regulatory of ealry B cell activation		B cells		
+SHIP1	Negative regulatory of ealry B cell activation		B cells		
+CD72	Negative regulatory of ealry B cell activation		B cells		
+CD22	Negative regulatory of ealry B cell activation		B cells		
+CCR7	Early BCR triggering		B cells		
+EBI2	Early BCR triggering		B cells		
+SIPR1	Reduced for B cell dwell time in follicles/retention		B cells		
+CD1d	ANTIGEN PROCESSING AND PRESENTATION: MCHII	Cd1d	B cells	presenting lipid antigen to NKT cells (MHC-I like molecule)	
+CD1c	ANTIGEN PROCESSING AND PRESENTATION: MCHII	CD1c	B cells	presenting lipid antigen to NKT cells (MHC-I like molecule)	
+TBX21	ANTIGEN PROCESSING AND PRESENTATION: MCHII	T-bet	B cells	T-box  transcription factor (T-bet)	
+ILR1	Cytokine B cell response	ILR1	B cells	Interleukin 1 Receptor Type 1	
+ILR2	Cytokine B cell response	CD25	B cells	Interleukin-2 receptor alpha chain	
+IL6R	Cytokine B cell response	IL6R	B cells	Interleukin 6 Receptor	
+IL4R	Cytokine B cell response	IL4R	B cells	Interleukin 4 Receptor	
+IL5RA	Cytokine B cell response	IL5RA	B cells	Interleukin 5 Receptor subunit alpha	
+BCMA	Cytokine B cell response	TNFRSF17	B cells	B-cell maturation antigen	
+IL21-R	Cytokine B cell response	IL21-R	B cells	Interleukin 21 receptor	
+IFNGR1	Cytokine B cell response	IFNGR	B cells	IFN-gamma Receptor	
+IFNGR2	Cytokine B cell response	IFNGR	B cells	IFN-gamma Receptor	
+TGFB1	Cytokine B cell response	TGF-beta	B cells	Transforming growth factor-beta (TGF-beta)	
+FASLG	Cytokine B cell response	CD95-L	B cells	Fas ligand (CD95-L)	
+ITGA4 	Adhesion molecules	CD49d	B cells	Integrin alpha 4	
+ITGB1	Adhesion molecules	CD29	B cells	Integrin beta 1	
+ITGAL	Adhesion molecules	CD11a	B cells	Integrin subunit alpha L (LAF-1)	
+IGAM	Adhesion molecules	Complement receptor 3	B cells	Integrin-alpha M Beta-2molecule (Mac-1)	
+CD44	Adhesion molecules	Link protein superfamily (LPSF)	B cells	Home cell adhesion molecule 	
+SELL	Adhesion molecules	CD62L	B cells	L-Selectin	
+PECAM-1	Adhesion molecules	CD31	B cells	Platelet endothelial cell adhesion molecule-1 (PCAM)	
+IL-10	Cytokines	IL-10	B cells	Interleukin 10	
+IL1B	Cytokines	IL1B	B cells	Interleukin 1-beta	
+IL12A	Cytokines	IL12A	B cells	Interleukin 12	
+IL12B	Cytokines	IL12B	B cells	Interleukin 12	
+IL15	Cytokines	IL15	B cells	Interleukin 15	
+IL6	Cytokines	IL6	B cells	Interleukin 6	
+CSF2	Cytokines	GM-CSF	B cells	Granulocyte-macrophage colony stimulating factor	
+IFNG	Cytokines	IFNG	B cells	Interferon gamma	
+AICDA	Somatic hypermutation		B cells		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					https://www.nature.com/articles/cr2013155
