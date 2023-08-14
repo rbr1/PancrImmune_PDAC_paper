@@ -1,0 +1,89 @@
+Full annotation	Broad annotation	Very broad annotation
+B cell  plasma cell	B cell plasma cell	B cell plasma cell
+B cell activated pre-memory	B cell activated	B cell activated
+B cell DZ GC	B cell GC	B cell GC
+B cell GZMB+ memory	B cell memory	B cell memory
+B cell LZ GC	B cell GC	B cell GC
+B cell memory	B cell memory	B cell memory
+B cell memory activated	B cell memory	B cell memory
+B cell MZ	B cell MZ	B cell activated
+B cell naive	B cell naive	B cell naive
+Myeloid DC CD207+ LC-like DC	DC DC2A	DC DC2
+Myeloid DC DC2A CD1A+	DC DC2A	DC DC2
+Myeloid DC DC2B CCL17+	DC DC2B	DC DC2
+Myeloid DC DC2B CXCL2/3+	DC DC2B	DC DC2
+Myeloid DC LAMP3+ DC	DC mregDC	DC mregDC
+Myeloid DC moDC	DC moDC	DC moDC
+Myeloid DC pDC	DC pDC	DC pDC
+Myeloid granulo-like	Mono granulo-like	Mono granulo-like
+Myeloid granulocyte	Mono granulo-like	Mono granulo-like
+Myeloid ILC ILC1	ILC	ILC
+Myeloid ILC ILC3 Lti	ILC	ILC
+Myeloid ILC NK	ILC	ILC
+Myeloid Mast	Mast	Mast
+Myeloid Mast activated	Mast	Mast
+Myeloid momac CES1	MoMac TREM2	MoMac
+Myeloid momac FCN1	MoMac FCN1	MoMac
+Myeloid momac FCN1 cycling	MoMac FCN1	MoMac
+Myeloid momac FOLR2	MoMac FOLR2	MoMac
+Myeloid momac FOLR2 cycling	MoMac FOLR2	MoMac
+Myeloid momac PLIN2	MoMac PLIN2	MoMac
+Myeloid momac TREM2	MoMac TREM2	MoMac
+Myeloid momac TREM2 cycling	MoMac TREM2	MoMac
+Myeloid monocyte conv	Mono conv	Mono conv
+Myeloid monocyte nonconv	Mono nonconv	Mono nonconv
+NK cell NK active	NK	NK
+NK cell NK CD56bright	NK	NK
+NK cell NK mature	NK	NK
+NK cell NK transitional	NK	NK
+NK cell NK like T cell	NK cell NK like T cell	NK cell NK like T cell
+T cell CD4 Activated Exhausted	T cell CD4 Exhausted	T cell CD4 Exhausted
+T cell CD4 Activated Tfh	T cell CD4 Tfh	T cell CD4 Th
+T cell CD4 Activated Th17	T cell CD4 Th	T cell CD4 Th
+T cell CD4 Activated Treg	T cell CD4 Treg	T cell CD4 Treg
+T cell CD4 CM	T cell CD4 Memory	T cell CD4 Memory
+T cell CD4 CM Activated	T cell CD4 Memory	T cell CD4 Memory
+T cell CD4 EM	T cell CD4 Memory	T cell CD4 Memory
+T cell CD4 Exhausted	T cell CD4 Memory	T cell CD4 Memory
+T cell CD4 Naive	T cell CD4 Naive	T cell CD4 Naive
+T cell CD4 Senescent	T cell CD4 Senescent	T cell CD4 Senescent
+T cell CD4 Tfh	T cell CD4 Tfh	T cell CD4 Th
+T cell CD4 Tfh Activated	T cell CD4 Tfh	T cell CD4 Th
+T cell CD4 Th1	T cell CD4 Th	T cell CD4 Th
+T cell CD4 Th17	T cell CD4 Th	T cell CD4 Th
+T cell CD4 Th17 Activated	T cell CD4 Th	T cell CD4 Th
+T cell CD4 Th2	T cell CD4 Th	T cell CD4 Th
+T cell CD4 Treg	T cell CD4 Treg	T cell CD4 Treg
+T cell CD4 Treg Activated	T cell CD4 Treg	T cell CD4 Treg
+T cell CD8 Activated CM	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 Activated EM	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 Activated Exhausted	T cell CD8 Exhausted	T cell CD8 Exhausted
+T cell CD8 CM Activated	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 EM	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 EM Activated	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 EMRA	T cell CD8 Memory	T cell CD8 Memory
+T cell CD8 Exhausted	T cell CD8 Exhausted	T cell CD8 Exhausted
+T cell CD8 Naive	T cell CD8 Naive	T cell CD8 Naive
+T cell CD8 Senescent	T cell CD8 Senescent	T cell CD8 Senescent
+T cell gdT	T cell gdT	T cell gdT
+T cell ILC1	ILC	ILC
+T cell ILC3	ILC	ILC
+T cell MAIT	T cell MAIT	T cell MAIT
+Myeloid DC cDC CD1C+	DC DC1	DC DC1
+Myeloid DC CLEC9A+ DC	DC DC1	DC DC1
+Myeloid DC moDC HLAhi	DC moDC	DC moDC
+Myeloid DC mregDC	DC mregDC	DC mregDC
+Myeloid megakaryocyte	Megakaryocyte	Megakaryocyte
+Myeloid momac RETN	MoMac RETN	MoMac
+Myeloid monocyte CD14	Mono conv	Monocyte
+Myeloid monocyte CD16	Mono conv	Monocyte
+NK cell iNKTs	iNKT	NK
+NK cell NK like NK cell	NK	NK
+NK cell NK terminal	NK	NK
+B cell  plasmablast	B cell plasma cell	B cell plasma cell
+ILC ILC NK	ILC	ILC
+ILC ILC1	ILC	ILC
+ILC ILC2	ILC	ILC
+ILC ILC3	ILC	ILC
+Myeloid monocyte CD14 FOLR3lo	Mono conv	Monocyte
+Myeloid monocyte CD14CD16	Mono conv	Monocyte

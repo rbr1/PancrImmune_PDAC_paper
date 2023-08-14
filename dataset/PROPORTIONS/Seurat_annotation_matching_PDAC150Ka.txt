@@ -1,0 +1,96 @@
+cell_types_merad	source	Level 1	Level 2	Level 3
+B cell activated pre-memory 	both	B cell activated pre-memory 	B cell antigen-experienced	B cell
+B cell DZ GC 	both	B cell GC 	B cell antigen-experienced	B cell
+B cell GZMB+ memory	both	B cell memory	B cell antigen-experienced	B cell
+B cell LZ GC 	both	B cell GC 	B cell antigen-experienced	B cell
+B cell memory	both	B cell memory	B cell antigen-experienced	B cell
+B cell memory activated 	both	B cell memory	B cell antigen-experienced	B cell
+B cell MZ	both	B cell MZ	B cell antigen-experienced	B cell
+B cell naive	both	B cell naive	B cell naive	B cell
+B cell plasma cell 	both	B cell ASC	B cell ASC	B cell
+B cell plasmablast	both	B cell ASC	B cell ASC	B cell
+Myeloid DC CD207+ LC-like DC 	biopsy	DC DC2A	DC DC2	Myeloid
+Myeloid DC cDC CD1C+ b 	blood	DC DC2 CD1C	DC DC2	Myeloid
+Myeloid DC CLEC9A+ DC	biopsy	DC DC1	DC DC1	Myeloid
+Myeloid DC CLEC9A+ DC b 	blood	DC DC1	DC DC1	Myeloid
+Myeloid DC DC2A CD1A+	biopsy	DC DC2A	DC DC2	Myeloid
+Myeloid DC DC2B CCL17+ 	biopsy	DC DC2B	DC DC2	Myeloid
+Myeloid DC DC2B CXCL2/3+	biopsy	DC DC2B	DC DC2	Myeloid
+Myeloid DC moDC	biopsy	DC moDC	DC moDC	Myeloid
+Myeloid DC moDC b	blood	DC moDC	DC moDC	Myeloid
+Myeloid DC moDC HLAhi pt6 b 	blood	DC moDC	DC moDC	Myeloid
+Myeloid DC mregDC 	biopsy	DC mregDC	DC mregDC	Myeloid
+Myeloid DC pDC	biopsy	DC pDC	DC pDC	Myeloid
+Myeloid DC pDC b 	blood	DC pDC	DC pDC	Myeloid
+Myeloid granulocyte 	biopsy	Myeloid granulocyte 	Myeloid granulocyte 	Myeloid
+Myeloid ILC ILC1	biopsy	ILC	ILC	Myeloid
+Myeloid ILC ILC3 Lti 	biopsy	ILC	ILC	Myeloid
+Myeloid ILC NK	biopsy	ILC	ILC	Myeloid
+Myeloid Mast 	biopsy	Mast	Mast	Myeloid
+Myeloid Mast activated	biopsy	Mast	Mast	Myeloid
+Myeloid megakaryocyte b	blood	Megakaryocyte	Megakaryocyte	Myeloid
+Myeloid momac CES1 	biopsy	MoMac TREM2	MoMac	Myeloid
+Myeloid momac FCN1	biopsy	MoMac FCN1	MoMac	Myeloid
+Myeloid momac FCN1 cycling 	biopsy	MoMac FCN1	MoMac	Myeloid
+Myeloid momac FOLR2	biopsy	MoMac FOLR2	MoMac	Myeloid
+Myeloid momac FOLR2 cycling 	biopsy	MoMac FOLR2	MoMac	Myeloid
+Myeloid momac PLIN2	biopsy	MoMac PLIN2	MoMac	Myeloid
+Myeloid momac RETN 	biopsy	MoMac RETN	MoMac	Myeloid
+Myeloid momac TREM2	biopsy	MoMac TREM2	MoMac	Myeloid
+Myeloid momac TREM2 cycling 	biopsy	MoMac TREM2	MoMac	Myeloid
+Myeloid monocyte CD14 b	blood	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14 FOLR3lo b	blood	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14 FOLR3lo pt1 b 	blood	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14 pt5 b 	blood	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14 pt6 b	blood	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14CD16 b	blood	Mono intermediate	Monocyte	Myeloid
+Myeloid monocyte CD14CD16 C1Qhi b 	blood	Mono intermediate	Monocyte	Myeloid
+Myeloid monocyte CD16 b 	blood	Mono nonconv	Monocyte	Myeloid
+Myeloid monocyte CD16 pt5 b	blood	Mono nonconv	Monocyte	Myeloid
+Myeloid monocyte CD16 pt6 b 	blood	Mono nonconv	Monocyte	Myeloid
+Myeloid monocyte conv	biopsy	Mono conv	Monocyte	Myeloid
+Myeloid monocyte nonconv 	biopsy	Mono nonconv	Monocyte	Myeloid
+NK cell iNKTs	both	iNKTs	NK-like cell	NK
+NK cell NK active 	both	NK cell	NK-like cell	NK
+NK cell NK CD56bright	both	NK cell	NK-like cell	NK
+NK cell NK like NK cell	both	NK cell	NK-like cell	NK
+NK cell NK mature 	both	NK cell	NK-like cell	NK
+NK cell NK terminal	both	NK cell	NK-like cell	NK
+NK cell NK transitional 	both	NK cell	NK-like cell	NK
+T cell CD4 CM 	both	T cell CD4 CM 	T cell CD4	T cell
+T cell CD4 CM Activated	both	T cell CD4 CM 	T cell CD4	T cell
+T cell CD4 EM 	both	T cell CD4 EM 	T cell CD4	T cell
+T cell CD4 Exhausted	both	T cell CD4 Exhausted	T cell CD4	T cell
+T cell CD4 Naive 	both	T cell CD4 Naive 	T cell CD4	T cell
+T cell CD4 Senescent	both	T cell CD4 Senescent	T cell CD4	T cell
+T cell CD4 Tfh 	both	T cell CD4 Tfh 	T cell CD4	T cell
+T cell CD4 Tfh Activated	both	T cell CD4 Tfh 	T cell CD4	T cell
+T cell CD4 Th1 	both	T cell CD4 Th1 	T cell CD4	T cell
+T cell CD4 Th17	both	T cell CD4 Th17	T cell CD4	T cell
+T cell CD4 Th17 Activated 	both	T cell CD4 Th17	T cell CD4	T cell
+T cell CD4 Th2	both	T cell CD4 Th2	T cell CD4	T cell
+T cell CD4 Treg 	both	T cell CD4 Treg 	T cell CD4	T cell
+T cell CD4 Treg Activated	both	T cell CD4 Treg 	T cell CD4	T cell
+T cell CD8 CM Activated 	both	T cell CD8 CM	T cell CD8	T cell
+T cell CD8 EM	both	T cell CD8 EM	T cell CD8	T cell
+T cell CD8 EM Activated 	both	T cell CD8 EM	T cell CD8	T cell
+T cell CD8 EMRA	both	T cell CD8 EM	T cell CD8	T cell
+T cell CD8 Exhausted 	both	T cell CD8 Exhausted 	T cell CD8	T cell
+T cell CD8 Naive	both	T cell CD8 Naive	T cell CD8	T cell
+T cell CD8 Senescent	both	T cell CD8 Senescent	T cell CD8	T cell
+T cell gdT 	both	T cell gdT 	T cell gdT 	T cell
+T cell ILC1	both	ILC	ILC	ILC
+T cell ILC3	both	ILC	ILC	ILC
+T cell ILC3 	both	ILC	ILC	ILC
+T cell MAIT	both	T cell MAIT	T cell MAIT	T cell
+Myeloid DC cDC CD1C+	both	DC DC2 CD1C	DC DC2	Myeloid
+Myeloid DC moDC HLAhi	both	DC moDC	DC moDC	Myeloid
+Myeloid megakaryocyte	both	Megakaryocyte	Megakaryocyte	Myeloid
+Myeloid monocyte CD14	both	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD16	both	Mono conv	Monocyte	Myeloid
+ILC ILC NK	both	ILC	ILC	ILC
+ILC ILC1	both	ILC	ILC	ILC
+ILC ILC2	both	ILC	ILC	ILC
+ILC ILC3	both	ILC	ILC	ILC
+Myeloid monocyte CD14 FOLR3lo	both	Mono conv	Monocyte	Myeloid
+Myeloid monocyte CD14CD16	both	Mono conv	Monocyte	Myeloid

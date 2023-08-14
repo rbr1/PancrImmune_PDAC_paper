@@ -1,0 +1,13 @@
+Sample 	Group	Source	Age	Sex	TNM Stage	Stage	Adjuvant Chemotherapy	BMI	Family history	Past medical history 	Smoking history 
+2	1	Oxford	70	Male	pT2 N2 (9/18) M0ÊL1 V1 R0	??	FOLFIRINOX (10 cycles)	21.04	None	Gout	Yes
+4	1	Oxford	66	Female	pT2 pN1 L1 V1 R1	IIB	FOLFIRINOX 	19.95	Stomach cancer	"Bilateral hip total hip replacements, hysterectomy (benign pathology)"	No
+7	1	Germany	72	Male	pT2 pN2 (9/21) L0 V0 Pn1 R1 (dorsal) CRM+	??	6cylce ge3m cape	28	none	None 	No
+8	1	Oxford	69	Male	pT2 pN1 L1 V1 R1	IIB	"FOLFIRINOX (2 cycles), gemcitabine"	17.89	NA	NA	No
+11	1	Oxford	70	Male	pT2 pN2 L1 V1 R1	??	Capecitabine (8 cycles)	26.41	NA	"Type 2 diabetes, bladder reflux surgery, inguinal hernia repair "	Yes
+1	2	Oxford	68	Male	pT2 L0 V1 pN1 N1(1/19) R1 (posterior)	IIB	Gemcitabine	22.34	None	None 	Yes
+3	2	Oxford	76	Female	pT1c N0(0/23)ÊL0 V0 R0	IA	Gemcitabine (3 months)	28.26	NA	Sjogren's syndrome	No
+5	2	Oxford	72	Male	pT3 pN2 L1 V2 R1	??	Gemcitabine	19.97	NA	"COPD, MI, AF,"	Yes
+6	2	Oxford	78	Female	pT1c pN2 L1 V1 R1	??	None	35.41	NA	"Hypertension, ovarian cyst, tonsillectomy "	No
+9	2	Germany	85	Male	pT2 pN1 (3/13) L0 V0 knapp R0 CRM+	IIB	n	26	none	NA	Yes
+10	2	Germany	70	Male	pT2 pN2(13/24) L0 V0 Pn1 R0 CRM0	??	4 cycle gem mono	21	none	hypertonie	Yes
+12	2	Germany	68	Male	pT2 pN2 (7/18) L0 V1 Pn1 R1 CRM+	??		32	none	diabetes	Yes

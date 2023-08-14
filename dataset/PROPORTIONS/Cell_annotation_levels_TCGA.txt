@@ -1,0 +1,32 @@
+Level 0	Level 1	Level 2	Level 3
+B cell  plasma cell	B cell ASC	B cell ASC	B cell
+B cell  plasmablast	B cell ASC	B cell ASC	B cell
+B cell memory	B cell memory	B cell memory	B cell
+B cell memory activated	B cell memory	B cell memory	B cell
+B cell naive	B cell naive	B cell naive	B cell
+Mast	Mast	Mast	Myeloid
+Mast activated	Mast	Mast	Myeloid
+momac FOLR2	momac	momac	Myeloid
+momac PLIN2	momac	momac	Myeloid
+momac TREM2	momac	momac	Myeloid
+monocyte CD14	monocyte	monocyte	Myeloid
+monocyte CD14 FOLR3lo	monocyte	monocyte	Myeloid
+monocyte CD14CD16	monocyte	monocyte	Myeloid
+monocyte CD16	monocyte	monocyte	Myeloid
+NK cell NK active	NK cell	NK cell	T/NK cell
+NK cell NK mature	NK cell	NK cell	T/NK cell
+T cell CD4 CM	T cell CD4 CM	T cell CD4	T/NK cell
+T cell CD4 Naive	T cell CD4 Naive	T cell CD4	T/NK cell
+T cell CD4 Senescent	T cell CD4 Senescent	T cell CD4	T/NK cell
+T cell CD4 Tfh	T cell CD4 Tfh	T cell CD4	T/NK cell
+T cell CD4 Th1	T cell CD4 Th1	T cell CD4	T/NK cell
+T cell CD4 Th17	T cell CD4 Th17	T cell CD4	T/NK cell
+T cell CD4 Th2	T cell CD4 Th2	T cell CD4	T/NK cell
+T cell CD4 Treg	T cell CD4 Treg	T cell CD4	T/NK cell
+T cell CD4 Treg Activated	T cell CD4 Treg	T cell CD4	T/NK cell
+T cell CD8 EM	T cell CD8 EM	T cell CD8	T/NK cell
+T cell CD8 EM Activated	T cell CD8 EM	T cell CD8	T/NK cell
+T cell CD8 EMRA	T cell CD8 EMRA	T cell CD8	T/NK cell
+T cell CD8 Exhausted	T cell CD8 Exhausted	T cell CD8	T/NK cell
+T cell CD8 Naive	T cell CD8 Naive	T cell CD8	T/NK cell
+T cell CD8 Senescent	T cell CD8 Senescent	T cell CD8	T/NK cell
