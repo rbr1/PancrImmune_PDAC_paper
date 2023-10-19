@@ -68,5 +68,5 @@ tibble version 3.2.1
 tidyr version 1.3.0
 tidyverse version 2.0.0
 umap version 0.2.10.0
-yarrr version 0.1.5![image](https://github.com/rbr1/PancrImmune_PDAC_paper/assets/42410958/ef4786bf-d971-44f2-8daf-06ad732bd248)
+yarrr version 0.1.5
 
